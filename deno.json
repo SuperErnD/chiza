@@ -1,0 +1,6 @@
+{
+	"tasks": {
+        "start": "deno run -A mod.js"
+    },
+    "importMap": "./import_map.json"
+}

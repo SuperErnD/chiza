@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "ws": "https://deno.land/x/websocket@v0.1.4/mod.ts",
+    "dap": "https://deno.land/x/discord_api_types@0.36.2/v10.ts",
+    "logger": "https://deno.land/x/optic/mod.ts",
+    "events": "https://deno.land/std@0.92.0/node/events.ts"
+  }
+}
